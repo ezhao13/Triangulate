@@ -2,4 +2,9 @@ readme
 add content
 add third line
 add fourth line
+<<<<<<< HEAD
 add fifth line
+=======
+add fifth line
+add six line
+>>>>>>> 39158c054597ec23689ba5b6886bc9fbae1b9311

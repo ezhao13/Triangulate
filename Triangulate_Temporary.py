@@ -1,3 +1,6 @@
+
+
+
 import pygame, sys
 from pygame.locals import QUIT
 import random 
