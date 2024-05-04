@@ -3,6 +3,7 @@ from pygame.locals import QUIT
 import random 
 import math
 
+
 # Initialize Pygame
 pygame.init()
 window = pygame.display.set_mode((800, 600))
